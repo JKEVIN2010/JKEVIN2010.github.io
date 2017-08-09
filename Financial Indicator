@@ -1,5 +1,5 @@
 #load financial modelling packages
-```R
+```r
 library(quantmod)
 library(quantstrat)
 library(TTR)
