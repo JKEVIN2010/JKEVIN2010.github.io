@@ -1,5 +1,5 @@
 #load financial modelling packages
-```r
+``` 
 library(quantmod)
 library(quantstrat)
 library(TTR)
@@ -72,7 +72,7 @@ test <- applyIndicators(strategy = strategy.st, mktdata = OHLC(SPY))
 
 # Subset your data between Sep. 1 and Sep. 5 of 2013
 test_subset <- test["2013-09-01/2013-09-05"]
-```
+``` 
 
 
 
