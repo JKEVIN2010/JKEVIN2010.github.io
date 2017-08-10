@@ -1,5 +1,6 @@
-#load financial modelling packages
-```r 
+#This program is a personal financial Indicator
+#Load the financial modelling packages
+
 library(quantmod)
 library(quantstrat)
 library(TTR)
