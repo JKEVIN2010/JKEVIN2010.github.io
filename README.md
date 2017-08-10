@@ -5,3 +5,7 @@
 #### 1- *The first program is a customised financial indicator  similar to a simple moving average*
 
 #### 2- *The second program is a code that computes the fair price of an option using the well-known Black-Scholes-Merton Formula*
+
+#### 3- *The third program simply plots a technical chart of any stock*
+
+
