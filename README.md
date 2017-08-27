@@ -6,6 +6,7 @@
 
 #### 2- *The second program is a code that computes the fair price of an option using the well-known Black-Scholes-Merton Formula*
 
-#### 3- *The third program simply plots a technical chart of any stock*
+#### 3- *The third program simply plots a technical chart of any stock. In our code we use the stock of AMAZON(AMZN) and the technical chart can be found in the file above called AMZNChart*
+
 
 
