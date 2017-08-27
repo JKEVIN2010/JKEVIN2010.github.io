@@ -1,5 +1,7 @@
+# This program compute the fair price of an Option using Black-Scholes-Merton Fomula
 # Black-Scholes Option Formula
 # the constants c and p from black scholes are programmed in the vector V
+
 blackscholes <- function(S, X, rf, T, sigma) {
   v <- c(2)
   
