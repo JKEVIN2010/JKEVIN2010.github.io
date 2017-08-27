@@ -6,8 +6,7 @@
 
 #### 2- *The program called "Blackscholes" is a simple code that computes the fair price of an option using the well-known Black-Scholes-Merton Formula*
 
-#### 3- *The  program "Stock_Visualize" simply plots a technical chart of any stock in within a specific timeframe. In our code we use the stock of AMAZON(AMZN) and the technical chart can be found in the file above called AMZN Chart*
+#### 3- *The  program "Stock_Visualize" simply plots a technical chart of any stock in within a specific timeframe. In our code we use the stock of AMAZON(AMZN) and the technical chart can be found at [AMZN Chart.pdf](https://github.com/JKEVIN2010/JKEVIN2010.github.io/files/1254693/AMZN.Chart.pdf)*
 
-[AMZN Chart.pdf](https://github.com/JKEVIN2010/JKEVIN2010.github.io/files/1254693/AMZN.Chart.pdf)
 
 
