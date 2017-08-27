@@ -8,5 +8,6 @@
 
 #### 3- *The  program "Stock_Visualize" simply plots a technical chart of any stock in within a specific timeframe. In our code we use the stock of AMAZON(AMZN) and the technical chart can be found in the file above called AMZN Chart*
 
+[AMZN Chart.pdf](https://github.com/JKEVIN2010/JKEVIN2010.github.io/files/1254693/AMZN.Chart.pdf)
 
 
