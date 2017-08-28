@@ -190,7 +190,8 @@ plot(google.f, ylab = "stock price", xlab = "year", sub = "Forecast from april 2
 
 
 ```
-*The plot of the forecast of the stock price of google in the next 2 years can be found here 
+*The plot of the forecast of the stock price of google in the next 2 years can be found here [Stock Price Prediction.pdf](https://github.com/JKEVIN2010/JKEVIN2010.github.io/files/1255167/Stock.Price.Prediction.pdf)*
+
 
 
 
